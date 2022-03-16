@@ -18,7 +18,7 @@ public class S04Formations {
 		while(activity = true) {
 		System.out.println("Votre panier actuel : ");
 		if (shoppingCart.isEmpty()) {
-			System.out.println(" -- Votre panier est actuellement vide -- ");
+			System.out.println(" Votre panier est actuellement vide ");
 		} else {
 			showShoppingCart(shoppingCart);
 		}
