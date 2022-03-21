@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"S04Formations","l":"initData(HashMap<Integer, List<String>>, HashMap<Integer, List<String>>)","u":"initData(java.util.HashMap,java.util.HashMap)"},{"p":"<Unnamed>","c":"S04Formations","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"S04Formations","l":"S04Formations()","u":"%3Cinit%3E()"}];updateSearchResults();
